@@ -115,9 +115,21 @@ The data exchange took place via the JSON format.
 
 ## 4. Semester ##
 
-###### Java ######
+###### Android ######
+
+In the fourth semester, the focus shifted to Android development. In addition, there were no weekly submissions. The homework consisted of developing an Android app that allows a fictitious restaurant to digitally store its guests (name, table number, etc.). Additionally, the customer should be able to customize the order (the choice of ingredients). The whole thing was created locally, without SQL database. Nevertheless, the GUI should dynamically adapt to different numbers of ingredients. For this purpose, a separate ListView was created, which was addressed by adding an adapter.
+
+![image_21](https://db3pap003files.storage.live.com/y4mEr4-t1aI5tcFiriRnRlW16xT6mnbruZR2uK9PycupyJ68l3QBBu6ullZx1qK3BShxkA5kIy8TJthipAUFPMQ2e5SWDv_avfX4jltMnfxSspDu2G9eUA1wnAfxlulOs8sAdUBbIuTbpQMudtj6rOnDw8ORiS9hIydinc_TpClV1Zd8BN3qCiHX9uLI_iaGoCO?width=2216&height=1158&cropmode=none)
+
+The ListView could then write all data into the defined XML file.
+
+![image_22](https://db3pap003files.storage.live.com/y4mJmWLQXITuGxouPIJymO8j-nHbdJvhs4fWH7fzMxZ6jp-e6lUwSbZGEQ0cPYnMcvk3hJXHEvHPuQT8VbDViz1elseaboblLvROFl0VdysFImJh0HksQebyxUMfsi1mZLNUBKmgbxfmVOvIyCuDcYwoMhnMpyZaAyho2M5iWt0CRlU9IgkBfMMDpMMO2lgdi0I?width=1758&height=1372&cropmode=none)
 
 ###### C# ######
+
+
+
+
 
 ## Repository ##
 
