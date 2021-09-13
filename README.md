@@ -21,21 +21,26 @@ The comparison methods:
 
 
 For my solution I used the *Scanner* to ask the user for the comparison method. 
+
 ![image_1](https://db3pap003files.storage.live.com/y4m06PQSnyTJPzzk3Z-Eu4XvLSP61gve151w-TaroYxQFYa5VBrfxM-noXi4t7s8-NqpN8fQLH6MG0WN1f-tcLGuNwY_cd_EM42OtV3MTxMucAOYWqFJoegQFevy4qjwNtIcpnUML4z7YnB-INStbgiJYND9Jc5RaXD396kDl79FYBkH7UHu3bw_iQTlsO4_UN6?width=1392&height=754&cropmode=none)
 
 A new class *Zeichenflaeche* created the GUI with the JFrame extension.
+
 ![image_2](https://db3pap003files.storage.live.com/y4mnxb8Mh_jezv7iF0XjOUVVpfuSpk965tuhqd7ACn86UwA55dSsac0pjoZdVOzgphDkCr3rf1qio5sdiVVs6LfcYp9VCsMeEZqM4SZUOouRchPLPwM7MAFtInyTlqy9pmr-0hWfYrOEE0_k_2Rqybo6WHYraXAXDqpVD5pSOTTK0GK9EK-meUMyCAj-S_tN0Bz?width=1810&height=1148&cropmode=none)
 
 Another class was used to create different methods for the varying comparison methods. As an example you can see the solution for the first lexicographically comparison.
+
 ![image_3](https://db3pap003files.storage.live.com/y4mfAl42BiONfqVr27bpdlf7J16eO0zTebVWFx8zOEL1g83b3MZEF0Wk0M50zuBj4MFHesNezI6x3Wf8wNjR4s59IpNphVKPppdPlmRx_6z8SXrRoAcyjtbXZiogDv5TDWMrUIL5TAawv83cyGFp3KFulAgMHZd7vRY1v5lGKKaUHM6veETZmR7UwP9NkK6krfF?width=1996&height=1102&cropmode=none)
 
 
 ###### HTML and CSS ######
 
 The first website was a standard non responsive HTML and CSS side with some JavaScript. The topic was self-selectable. I decided to create a website for the Netflix-series *Tales by Light*. The website contained a menu and three subpages.
+
 ![image_4](https://db3pap003files.storage.live.com/y4muBvldUI7j6oWMWXEqdcL9XY9GGHgQJOrO-3Hn7msN7MUR_3Xvq8kB7m-MM0k-bTDvHsjpgpBuaLzPPx589yn_p2Te1idf2h0lCYE1_nDuG2WTUNxuAE8huX4PfUyOqkKQHRLtzMnjRMgDeIBk8oBYt9mcfC4QSlzFqzBYXpYf5PFc59Gdzg2sVmKCWU6uIhm?width=1974&height=1172&cropmode=none)
 
 Additionally I added a video-player and a slideshow, to represent the images of the photographers. 
+
 ![image_5](https://db3pap003files.storage.live.com/y4mzCrMhLrJbqI4aTcHiwtdWVtP4V6kV-8wxDx4yPLSnRPQjLTGsqltyBhGUhM6M_laFoPD2VeUXd7znHlM7_82hxsv4ZFAsNVVqa4YaMH2zz9ewHDCCPuVPiBsQoU1mXoMmwEroTtp_SwbEuUW0DEI57DLBF1QbPcHelLyVkY62666FRfiLdYcLrzM22NlrvQ2?width=1298&height=652&cropmode=none)
 
 ## 2. Semester ##
@@ -44,7 +49,7 @@ Additionally I added a video-player and a slideshow, to represent the images of 
 
 The second semester had a similar Schedule then the first semester. Therefor we had to solve a task for every week. As an example there was the third exercise where we should build a tree data structure with recursive traversal. 
 
-In the example you can see the constructor that initialize the priority queue an hands the two lowest values over to the *einfügen* methode. 
+In the example you can see the constructor that initialize the priority queue and hands the two lowest values over to the *einfügen* methode. 
 
 ![image_6](https://db3pap003files.storage.live.com/y4mhJntkw5PxLAacH3AuOTn4510o4-20bmHU0AcGzTxD94iEND1SVdvID5wwD4wGPR3m3uhDYZNWQPtZkqR57Z_8Bt86NcmImOAQ6VCbp9IrNnTtevTKYpQgaPuiO7wsWl4VNj-ph2a1ECubwi_M4py5AvzgITZkcqYO6oUPcoD0Y4cAiiiCVJi9BiOO6uS-_YR?width=1466&height=624&cropmode=none)
 
@@ -91,7 +96,7 @@ The second figure shows the dynamic creation of the filters
 
 ###### Java ######
 
-As with previous semesters, we had to solve and turn in an assignment each week. As with previous semesters, we had to solve and turn in an assignment each week. However, the tasks were increasingly focused on network programming with different clients. In this example, we had to create a chat program that is managed by a server. The messages appear on all devices at the same time. The first picture shows a method from the server, which creates the socket and stores all information from the client.
+As with previous semesters, we had to solve and turn in an assignment each week. However, the tasks were increasingly focused on network programming with different clients. In this example, we had to create a chat program that is managed by a server. The messages appears on all devices at the same time. The first picture shows a method from the server, which creates the socket and stores all information from the client.
 
 ![image_15](https://db3pap003files.storage.live.com/y4mshi4eWMWIM8aBs0x13zJIhHvMjXo5U46oiKhX9DfMihoFXtR2sRDf5pSq1RgHD7J-buNz8ZjfDeTuckqwBlu3klRpWoZKlmn51EoL_Rvy1PfeHshRqH0FvUxLo4nvhbynPe0WA5FGb2FReEFkv9FM6eo7cXXS4CWyspalTx8KOd1gpAaNeE-gL2VJoxPhQIX?width=1610&height=576&cropmode=none)
 
@@ -132,6 +137,10 @@ With Unity, the fourth semester also included familiarization with C#. A 3D game
 ![image_23](https://db3pap003files.storage.live.com/y4mVbgUfFuoFQCyHuivvxCUfEhuVVXnsvUl2sgeW0ic2pDOBsItSFcro1ONKol4w0P9bz5rFLUoVmQhcMPnxLHU7um9O7MbN1KSTHNiOSIVXHjgRawa2kfEsfmKTrTcwXCOEe0yq8Qk4ldnrnIfapNztVk61X5EPhqHVL5d8JdNTX1VS7oauKW4fIZTrKSDE-sL?width=1662&height=1298&cropmode=none)
 
 ![image_24](https://db3pap003files.storage.live.com/y4mHsoo3lBI-MG8pUQ_o-r9Y-44FsHGVA2ZipzddGix_e3NOn9oiFjBYapEsGFlsl7Zmi7-81MhPH6HOyE2oGxFjRjO8IE9VtVmf-wRHwp3L_dq1wioGHy60NZCtmQTzdIr_7HKOiThmDTdVAnQu_FA8C1C9XF5BBNBk0OLqHUHqnl_qJt8EU25OEwoD0djFtZZ?width=990&height=1636&cropmode=none)
+
+## 5. Semester ##
+
+The 5th semester will have an emphasis on IOS and Python programming.
 
 ## Repository ##
 
