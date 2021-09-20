@@ -6,9 +6,9 @@ This is an overview of the projects I developed during my four semesters at the 
 
 ###### Java ######
 
-Every week in the first Semester, we had to solve a specific task. The solutions were necessary to pass the exam. Therefor we had to work together in groups of two people. The tasks where basic exercises to learn Java
+Every week in the first semester, we had to solve a specific task. The solutions were necessary to pass the exam. Therefor we had to work together in groups of two. The tasks where basic exercises to learn Java.
 
-One of these task was to generate a GUI with 500 x 500 px. After that the program should position 20 points randomly on the interface. The user should now have the opportunity, to choose between different comparison methods. After the comparison the program should connect the dots depending on the distance. 
+One of these task was to generate a GUI with 500 x 500 px. After that the program should position 20 points randomly on the interface. The user should now have the opportunity to choose between different comparison methods. After the comparison the program should connect the dots depending on the distance. 
 The comparison methods:
 
 • Lexicographically: first the X-coordinate, if they are the same, the Y-coordinate
@@ -39,7 +39,7 @@ The first website was a standard non responsive HTML and CSS side with some Java
 
 ![image_4](https://db3pap003files.storage.live.com/y4muBvldUI7j6oWMWXEqdcL9XY9GGHgQJOrO-3Hn7msN7MUR_3Xvq8kB7m-MM0k-bTDvHsjpgpBuaLzPPx589yn_p2Te1idf2h0lCYE1_nDuG2WTUNxuAE8huX4PfUyOqkKQHRLtzMnjRMgDeIBk8oBYt9mcfC4QSlzFqzBYXpYf5PFc59Gdzg2sVmKCWU6uIhm?width=1974&height=1172&cropmode=none)
 
-Additionally I added a video-player and a slideshow, to represent the images of the photographers. 
+Additionally I added a video-player and a slideshow to represent the images of the photographers. 
 
 ![image_5](https://db3pap003files.storage.live.com/y4mzCrMhLrJbqI4aTcHiwtdWVtP4V6kV-8wxDx4yPLSnRPQjLTGsqltyBhGUhM6M_laFoPD2VeUXd7znHlM7_82hxsv4ZFAsNVVqa4YaMH2zz9ewHDCCPuVPiBsQoU1mXoMmwEroTtp_SwbEuUW0DEI57DLBF1QbPcHelLyVkY62666FRfiLdYcLrzM22NlrvQ2?width=1298&height=652&cropmode=none)
 
@@ -47,13 +47,13 @@ Additionally I added a video-player and a slideshow, to represent the images of 
 
 ###### Java ######
 
-The second semester had a similar Schedule then the first semester. Therefor we had to solve a task for every week. As an example there was the third exercise where we should build a tree data structure with recursive traversal. 
+The second semester had a similar schedule then the first semester. Therefor we had to solve a task for every week. As an example there was the third exercise where we should build a tree data structure with recursive traversal. 
 
 In the example you can see the constructor that initialize the priority queue and hands the two lowest values over to the *einfügen* methode. 
 
 ![image_6](https://db3pap003files.storage.live.com/y4mhJntkw5PxLAacH3AuOTn4510o4-20bmHU0AcGzTxD94iEND1SVdvID5wwD4wGPR3m3uhDYZNWQPtZkqR57Z_8Bt86NcmImOAQ6VCbp9IrNnTtevTKYpQgaPuiO7wsWl4VNj-ph2a1ECubwi_M4py5AvzgITZkcqYO6oUPcoD0Y4cAiiiCVJi9BiOO6uS-_YR?width=1466&height=624&cropmode=none)
 
-The *einfügen* methode decides according to the different probabilities of the transferred elements whether one has to 'go' to the left or to the right. Finally, the 'parent' element is added to the PriorityQueue. The 'parent' element is 'above' element1 and element2.
+The *einfügen* methode decides according to the different probabilities of the transferred elements whether one has to 'move' to the left or to the right. Finally, the 'parent' element is added to the PriorityQueue. The 'parent' element is 'above' element1 and element2.
 
 ![image_7](https://db3pap003files.storage.live.com/y4mlmjD9TCCELt5a_a0qysDRuD_64Y6cW4YtW_8dBYS2UCqzEHabrwp-en4s5Tj4MXb19ukV36UF8rH1LO6uGBQDXpnwTkS-rys1DkSikyIWZhHS9ShOyyXlaMUEDD6keQ1BbyON4Y_NTehJ9lvQVYwqeZHaHWgtdsum3sAqzl8T98yBs9QFX-dW6kohrBjhHYF?width=2656&height=978&cropmode=none)
 
