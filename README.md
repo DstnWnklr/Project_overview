@@ -6,7 +6,7 @@ This is an overview of the projects I developed during my four semesters at the 
 
 ###### Java ######
 
-Every week in the first semester, we had to solve a specific task. The solutions were necessary to pass the exam. Therefor we had to work together in groups of two. The tasks where basic exercises to learn Java.
+Every week in the first semester, we had to solve a specific task. The solutions were necessary to pass the exam. Therefor we had to work together in groups of two. The tasks were basic exercises to learn Java.
 
 One of these task was to generate a GUI with 500 x 500 px. After that the program should position 20 points randomly on the interface. The user should now have the opportunity to choose between different comparison methods. After the comparison the program should connect the dots depending on the distance. 
 The comparison methods:
